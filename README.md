@@ -1,5 +1,5 @@
-# f2echina
-前端人在中国
+# find-f2e
+找前端
 
 * 域名去godaddy.com购买, 有优惠券5年 ¥338.16, 可以支付宝支付, dns用国内的dnspod
 * 备案问题
