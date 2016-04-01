@@ -25,4 +25,6 @@
 
 ## 参考
 * [简聊 Web 前端开发的招聘文案](https://github.com/jianliaoim/hire/blob/master/jobs/web.md)
-* [teambition/Hire](https://github.com/teambition/Hire)
+* [Working With Great People](https://github.com/teambition/Hire)
+* [寻找热爱生活，把世界变的更好的人](https://github.com/ElemeFE/hire)
+* [陆金所大前端招聘](https://github.com/island205/Lu-Hire)
