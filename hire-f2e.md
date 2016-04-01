@@ -25,3 +25,4 @@
 
 ## 参考
 * [简聊 Web 前端开发的招聘文案](https://github.com/jianliaoim/hire/blob/master/jobs/web.md)
+* [teambition/Hire](https://github.com/teambition/Hire)
